@@ -1,7 +1,8 @@
-# godot-landingpage-base
-Godot new landing-page initial layout
+# WIP homepage for Godot's website
 
-<b>Usage:</b>
+New design for the upcoming Godot website.
 
-Download/clone to hardrive and open & edit index.html<br/>
-Edit styles in scss directory. Setup sass compiler from style.scss to assets/css/style.css <br/>
+## Usage
+
+Clone the repository, open and edit index.html  
+Edit styles in scss directory. Setup sass compiler from style.scss to assets/css/style.css
